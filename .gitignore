@@ -1,0 +1,20 @@
+# Ignorar diretórios de compilação e cache
+__pycache__/
+.cache/
+
+# Ignorar arquivos temporários e de log
+*.log
+*.tmp
+*.db
+
+# Ignorar arquivos grandes ou gerados (exemplo: resultados de processamento)
+my_large_files/
+
+# Ignorar ambientes virtuais
+venv/
+.venv/
+.env
+
+# Ignorar arquivos de configuração específicos do sistema
+*.swp
+*.bak
