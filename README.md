@@ -23,6 +23,16 @@ O projeto utiliza as seguintes bibliotecas:
 
 Antes de rodar o projeto, certifique-se de ter o Python instalado em sua máquina (Python 3.8 ou superior). Para instalar as bibliotecas necessárias, use os comandos abaixo no terminal:
 
+- Fora de um ambiente virtual
+
+```bash
+pip install -r requirements.txt (Windows)
+
+```bash
+pip3 install -r requirements.txt (Linux)
+
+- Dentro de um ambiente virtual
+
 ```bash
 pip install -r requirements.txt
 
@@ -30,4 +40,4 @@ pip install -r requirements.txt
 ### Como Compilar
 
 ```bash
-python main.py
+python3 main.py
