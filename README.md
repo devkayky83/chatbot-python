@@ -27,10 +27,11 @@ Antes de rodar o projeto, certifique-se de ter o Python instalado em sua máquin
 
 ```bash
 pip install -r requirements.txt (Windows)
-
+```
 ```bash
 pip3 install -r requirements.txt (Linux)
 
+```
 - Dentro de um ambiente virtual
 
 ```bash
